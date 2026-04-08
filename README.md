@@ -20,7 +20,7 @@ and infrastructure — yet most operate without any data-driven framework to mea
 this project quantifies the impact of institutional investments on student exam performance,
 segments outcomes by socio-economic factors, and delivers insights through:
 
-- 📊 An **interactive Power BI dashboard** with 4 drill-through pages
+- 📊 An **interactive Power BI dashboard** with 2 drill-through pages
 - 🤖 An **Edu-Advisor AI Chatbot** for natural language querying
 - 📋 An **Investment Prioritization Matrix** ranking interventions by academic ROI
 
