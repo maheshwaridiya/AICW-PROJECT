@@ -6,7 +6,7 @@
 ![Fellowship](https://img.shields.io/badge/AICW%20Fellowship-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 
 > **AICW (AI Careers for Women) Fellowship Project — 2026**
-> H.L College of Commerce | Guided by Uma Ma'am | Trained by Sagar Sir
+>Edunet Foundation | H.L College of Commerce 
 
 ---
 
