@@ -22,5 +22,5 @@ segments outcomes by socio-economic factors, and delivers insights through:
 
 - 📊 An **interactive Power BI dashboard** with 2 drill-through pages
 - 🤖 An **Edu-Advisor AI Chatbot** for natural language querying
-- 📋 An **Investment Prioritization Matrix** ranking interventions by academic ROI
+
 
