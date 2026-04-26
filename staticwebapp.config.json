@@ -1,0 +1,19 @@
+{
+  "routes": [
+    {
+      "route": "/subscriptions/e623bb0c-55ab-4d88-b394-fc9ed6ef33e4/resourceGroups/SmartEdu_AICW_PROJECT/providers/Microsoft.Web/staticSites/SMARTEDU",
+      "methods": [
+        "connect",
+        "options",
+        "trace",
+        "patch",
+        "put",
+        "head",
+        "get",
+        "post",
+        "delete"
+      ],
+      "redirect": "https://yellow-desert-039df1710.7.azurestaticapps.net"
+    }
+  ]
+}
